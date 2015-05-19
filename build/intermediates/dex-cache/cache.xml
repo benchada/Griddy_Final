@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-74258abdbddf84cf38a89a0ba5ce06c0aad71481.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ec10b6cdf5fb9e23610bdcc66c937aa56cf9325a.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-8af1b6cf2f9f3b5d86b73dae97d2032413ac5b90.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-cec8b7f33f992ec31758f8f530a03568a1d6b08f.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-e4cd309a171dfdba9c13bab8098ba18ff3449e62.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-85f9a484753c3c10a6a55e886874ea3694f596f7.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-0d0e95483b1ce6e5532de5561408f83ae2bdd654.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-661e41da257966a16c4564f2a8def8012ac463ef.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-455a4d058c0f5dc47cf9d857dd68838af4f2de24.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-9f50e57bf33fa380869865fc04d45e7ac7df0c4d.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-ca1544f595205a498bf1f08b3a90f72af6ac48b1.jar" />
+    </item>
+    <item
+        jar="/home/cse492/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-0bbfd80e67ca1b6d25fc4e060103d90d2128fbcd.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-21543c8add69eecbacd3706ee5a775be1c0f7c83.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-8c65871a0977189b46b12c4982463d6a439cf5c7.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-4531e8a8185a1504e98ff9bce06ee0507dccae96.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-eb456488a2cf7a6d50554485e34cd26a080ea6b1.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-d6bab9dc6215b3557a6e9aa56ca0f65389d69461.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-347e1642b9844a2a09d43f0588d6fd4076c9d738.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-6875ebe889312351a515fbf2a20d22d8924053b4.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-4d896fd70196343cc39b481eac10af8d85d840c9.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-e872b3d850dca0f94c959e478a3820fa93678ed4.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-b006e55431946a7481d5f77bbf02eccf59ad000d.jar" />
+    </item>
+    <item
+        jar="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/home/cse492/android-basic-samples-master/BOINC/app/build/intermediates/pre-dexed/debug/classes-316e4bbef81a0b6972754606e12c51c43bbd4a24.jar" />
+    </item>
+
+</items>
